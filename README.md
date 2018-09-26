@@ -1,6 +1,6 @@
-## Something Light!
+# Something Light!
 
-# Playground for frontend dev.
+### Playground for frontend dev.
 
 #### Basically:
 
